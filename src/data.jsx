@@ -162,7 +162,8 @@ export const resume = [
     category: "experience",
     icon: <FaBriefcase />,
     year: "Sep 2021 - Sep 2023",
-    title: "Editor of Science and Technology <span> Cactus Communications </span>",
+    title:
+      "Editor of Science and Technology <span> Cactus Communications </span>",
     desc: "Editing of Scientific manuscripts for grammar and logic (Subject Areas: Electrical engineering and electronics, manufacturing, robotics, mechanical engineering, civil engineering, and structural",
   },
 
@@ -171,7 +172,8 @@ export const resume = [
     category: "experience",
     icon: <FaBriefcase />,
     year: "Dec 2014 - Feb 2015",
-    title: "Mechanical Engineering Vacation Work <span> Murray & Roberts </span>",
+    title:
+      "Mechanical Engineering Vacation Work <span> Murray & Roberts </span>",
     desc: "Project Planning and Coordination",
   },
 
@@ -189,7 +191,8 @@ export const resume = [
     category: "experience",
     icon: <FaBriefcase />,
     year: "June 2018 - Feb 2019",
-    title: "Mechanical Engineering Vacation Work <span> Vergenoeg Mining Company </span>",
+    title:
+      "Mechanical Engineering Vacation Work <span> Vergenoeg Mining Company </span>",
     desc: "Maintenance planning, computer-aided design, trackless bobile machinery servicing, process monitoring, ordering of parts, artisan assistant",
   },
 
@@ -198,7 +201,8 @@ export const resume = [
     category: "education",
     icon: <FaGraduationCap />,
     year: "2023",
-    title: "BSc Mechanical Engineering (4th Year - Discontinued) <span> University of the Witwatersrand </span>",
+    title:
+      "BSc Mechanical Engineering (4th Year - Discontinued) <span> University of the Witwatersrand </span>",
     desc: "Application of mechanicanics, thermodynamics, engineering mathematics, fluid mechanicals, and mechatronics principles to solve complex, open-ended problems",
   },
 
@@ -207,7 +211,8 @@ export const resume = [
     category: "education",
     icon: <FaGraduationCap />,
     year: "2023",
-    title: "Complete Web Development Bootcamp Certificate of Completion <span> Udemy </span>",
+    title:
+      "Complete Web Development Bootcamp Certificate of Completion <span> Udemy </span>",
     desc: "Online courses and projects using HTML, CSS, Bootstrap, JavaScript, React.js, Node.js, APIs, Express.js, MongoDB, and SQL",
   },
 
@@ -216,7 +221,8 @@ export const resume = [
     category: "education",
     icon: <FaGraduationCap />,
     year: "2023",
-    title: "Deep Learning for Image Segmentation with Python and Pytorch <span> Udemy </span>",
+    title:
+      "Deep Learning for Image Segmentation with Python and Pytorch <span> Udemy </span>",
     desc: "Application of Convolutional Neural Networks for Semantic Segmentation Applications using Python and Pytorch",
   },
 ];
@@ -279,13 +285,11 @@ export const portfolio = [
     details: [
       {
         icon: <FiFileText />,
-        title: "Semantic Segmentation for Autonomous Vehicle",
-
+        title: "Semantic Segmentation",
       },
       {
         icon: <FiUser />,
-        title: "Final year project : ",
-        desc: "University of the Witwatersrand",
+        title: "Final year project",
       },
       {
         icon: <FaCode />,
@@ -295,13 +299,10 @@ export const portfolio = [
       {
         icon: <FiExternalLink />,
         title: "Preview : ",
-        desc: "www.dribble.com",
+        desc: "https://drive.google.com/drive/folders/1RYRmS_Wn9dqgeEggWDoQqIJEOwm7-G4c?usp=sharing",
       },
     ],
   },
-
-
-
   {
     id: 2,
     img: Work2,
@@ -323,7 +324,7 @@ export const portfolio = [
       {
         icon: <FiExternalLink />,
         title: "Preview : ",
-        desc: "www.dribble.com",
+        desc: "https://github.com/Kgaogelo072/Personal-portfolio.git",
       },
     ],
   },
@@ -398,8 +399,6 @@ export const portfolio = [
       },
     ],
   },
-
-
 ];
 
 export const themes = [
